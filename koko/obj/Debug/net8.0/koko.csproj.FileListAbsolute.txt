@@ -1,0 +1,14 @@
+C:\Users\NK 2314\Documents\gh\WORK\koko\obj\Debug\net8.0\koko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NK 2314\Documents\gh\WORK\koko\obj\Debug\net8.0\koko.AssemblyInfoInputs.cache
+C:\Users\NK 2314\Documents\gh\WORK\koko\obj\Debug\net8.0\koko.AssemblyInfo.cs
+C:\Users\NK 2314\Documents\gh\WORK\koko\obj\Debug\net8.0\koko.csproj.CoreCompileInputs.cache
+C:\Users\NK 2314\Documents\gh\WORK\koko\bin\Debug\net8.0\koko.exe
+C:\Users\NK 2314\Documents\gh\WORK\koko\bin\Debug\net8.0\koko.deps.json
+C:\Users\NK 2314\Documents\gh\WORK\koko\bin\Debug\net8.0\koko.runtimeconfig.json
+C:\Users\NK 2314\Documents\gh\WORK\koko\bin\Debug\net8.0\koko.dll
+C:\Users\NK 2314\Documents\gh\WORK\koko\bin\Debug\net8.0\koko.pdb
+C:\Users\NK 2314\Documents\gh\WORK\koko\obj\Debug\net8.0\koko.dll
+C:\Users\NK 2314\Documents\gh\WORK\koko\obj\Debug\net8.0\refint\koko.dll
+C:\Users\NK 2314\Documents\gh\WORK\koko\obj\Debug\net8.0\koko.pdb
+C:\Users\NK 2314\Documents\gh\WORK\koko\obj\Debug\net8.0\koko.genruntimeconfig.cache
+C:\Users\NK 2314\Documents\gh\WORK\koko\obj\Debug\net8.0\ref\koko.dll
